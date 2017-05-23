@@ -9,7 +9,10 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define RELAYMODULE4CH_PIN_IN1	2
+#define RELAYMODULE4CH_PIN_IN2	3
+#define RELAYMODULE4CH_PIN_IN3	5
+#define RELAYMODULE4CH_PIN_IN4	4
 
 // =======================Pin Definitions // ===================================
 
